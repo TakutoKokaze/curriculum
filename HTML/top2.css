@@ -14,11 +14,16 @@
     width: 150px;
     height: 250px;
     background-color: #80bfa8;
+    float:left;
 }
 
  .right {
    float:left;
 } 
+
+.right-left {
+    float:left;
+}
 
 .left-upper {
     width: 150px;
@@ -29,9 +34,8 @@
 
 .left-lower {
     width: 150px;
-    height: 100px;
+    height: 150px;
     background-color: #0093b7;
-    float: left;
 }
 
 .right-side {
@@ -45,7 +49,6 @@
     width: 250px;
     height: 100px;
     background-color: #8c2727;
-    float: left;
 }
 
 .footer {
